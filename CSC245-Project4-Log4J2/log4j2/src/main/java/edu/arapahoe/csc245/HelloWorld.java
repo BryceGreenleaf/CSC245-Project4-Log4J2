@@ -17,7 +17,7 @@ public class HelloWorld {
         // Initialize array
         for (int i = 0; i < 100; i++)
             data[i] = (int)(Math.random() * 10000);
-        logger.info("Array Created" ); // Adding a logger to see when the array was created and
+        logger.info("Array Created" ); // Adding a logger to see when the array was created and ran
 
 
         try {
